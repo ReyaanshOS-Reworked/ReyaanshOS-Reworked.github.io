@@ -1,7 +1,7 @@
 site_name: ReyaanshOS-Reworked Wiki
 site_description: Documentation for ReyaanshOS-Reworked
 site_url: https://reyaansos-reworked.github.io/
-repo_url: https://github.com/ReyaansOS-Reworked/ReyaansOS-Reworked.github.io
+repo_url: https://github.com/ReyaanshOS-Reworked/ReyaanshOS-Reworked.github.io
 edit_uri: edit/main/docs/
 
 theme:
