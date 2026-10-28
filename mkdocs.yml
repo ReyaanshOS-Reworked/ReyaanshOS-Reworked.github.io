@@ -1,0 +1,43 @@
+site_name: ReyaansOS-Reworked Wiki
+site_description: Documentation for ReyaansOS-Reworked
+site_url: https://reyaansos-reworked.github.io/
+repo_url: https://github.com/ReyaansOS-Reworked/reyaansos-reworked.github.io
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+  palette:
+    - scheme: slate
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: default
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+nav:
+  - Home: index.md
+  - Devices: devices.md
+  - Desktop Environments: desktop-environments.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - pymdownx.details
+  - pymdownx.superfences
+
+plugins:
+  - search
