@@ -1,6 +1,6 @@
 # Desktop Environments
 
-This page documents desktop environments relevant to ReyaansOS-Reworked.
+This page documents desktop environments relevant to ReyaanshOS-Reworked.
 
 ## KDE Plasma
 

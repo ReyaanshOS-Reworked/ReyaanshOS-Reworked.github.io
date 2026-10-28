@@ -1,6 +1,6 @@
-# ReyaansOS-Reworked
+# ReyaanshOS-Reworked
 
-Welcome to the ReyaansOS-Reworked wiki.
+Welcome to the ReyaanshOS-Reworked wiki.
 
 This wiki contains project documentation, device information, and desktop
 environment information.
@@ -12,4 +12,4 @@ environment information.
 
 ## Project
 
-- [GitHub repository](https://github.com/ReyaansOS-Reworked)
+- [GitHub repository](https://github.com/ReyaanshOS-Reworked)
